@@ -1,0 +1,11 @@
+import random
+A = (chr(random.randint(65, 90)))
+B = (chr(random.randint(65, 90)))
+C = (chr(random.randint(65, 90)))
+D = (chr(random.randint(65, 90)))
+E = (chr(random.randint(65, 90)))
+F = (chr(random.randint(65, 90)))
+G = (chr(random.randint(65, 90)))
+H = (chr(random.randint(65, 90)))
+
+print ("The acronym for your new company is:" , A + B + C + D + E + F + G + H)
